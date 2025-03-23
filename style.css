@@ -1,0 +1,358 @@
+
+body{
+    max-height: 800px;
+}
+
+
+.heading{
+    background-image: url('https://images.pexels.com/photos/302769/pexels-photo-302769.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    
+}
+
+.heading header {
+    background-color:rgba(0,0,0,0.5);
+    height: 100%;
+    
+}
+
+ .heading header .first h1{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    position: absolute;
+    background-color: red;
+    margin: 300px 300px;
+
+}
+
+.heading header h2{
+    color: white;
+    font-size: 25px;
+   /* padding: 300px 500px 150px 40px; */
+    margin: 350px 580px;    
+    position: absolute;
+    
+
+}
+
+.heading header .button1 a{
+    font-size: 20px;
+    margin:400px 550px;
+    position: absolute;
+    color: black;
+    text-decoration: none;
+    background-color: white;
+    padding: 10px;
+    
+}
+
+
+.heading header .button2 a{
+    font-size: 20px;
+    color: black;
+    margin:400px 700px;
+    position: absolute;
+    text-decoration: none;
+    background-color: white;
+    padding: 10px;
+    margin-right: 10px;
+   
+}
+
+.heading header .img{
+    background-image: url('C:/Users/91938/Downloads/logo1.jpg');
+    height: 350px;
+    width: 400px;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: 600px;
+    margin-top: 50px;
+}
+
+.border{
+
+    border-bottom: 20px solid red;
+}
+
+.img1{
+    background-image: url('C:/Users/91938/Downloads/dis.png');
+    height: 300px;
+    width: 400px;
+    margin-top: 50px;
+    left: 30px;
+    position: relative;
+    border-right: 1030px solid red;
+    
+    
+}
+    
+
+.img1 .p1{
+    height: 300px;
+    width: 900px;
+    position: absolute;
+    left: 400px;
+    font-size: 30px;
+    padding: 20px;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+   
+    
+}
+
+.img1 .p2{
+    height: 300px;
+    width: 900px;
+    position: absolute;
+    left: 320px;
+    font-size: 15px;
+    padding: 100px;
+    text-align: justify;
+    color: white;
+    line-height: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.img1 .icon span{
+    font-size: 10px;
+    margin: 250px;
+    left: 200px;
+    height: 50px;
+    width: 120px;
+    padding: 3px;
+    position: absolute;
+    letter-spacing: 3px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    
+    
+}
+
+.img1 .icon2 span{
+    font-size: 10px;
+    margin: 250px;
+    left: 350px;
+    height: 50px;
+    width: 120px;
+    padding: 3px;
+    position: absolute;
+    letter-spacing: 3px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    
+}
+
+.img1 .icon3 span{
+    font-size: 10px;
+    margin: 250px;
+    left: 500px;
+    height: 50px;
+    width: 120px;
+    padding: 3px;
+    position: absolute;
+    letter-spacing: 3px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    
+    
+}
+
+
+.img1 .icon4 span{
+    font-size: 10px;
+    margin: 250px;
+    left: 650px;
+    height: 50px;
+    width: 120px;
+    padding: 3px;
+    position: absolute;
+    letter-spacing: 3px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    
+}
+    
+
+.img1 .icon5 span{
+    font-size: 10px;
+    margin: 250px;
+    left: 800px;
+    height: 50px;
+    width: 120px;
+    padding: 3px;
+    position: absolute;
+    letter-spacing: 3px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.form{
+    height: 500px;
+    width: 800px; 
+    margin: 80px 200px; 
+    font-weight: bold;
+    
+    
+}
+
+.form .forms input{
+    height: 40px;
+    width: 1000px;
+    text-align: center;
+    border-color: red;
+    text-align: left;
+   
+    
+}
+
+.button3 a{
+    
+    margin: 100px 200px;
+    padding:10px;
+    background-color: red;
+    color: white;
+    font-size: 15px;
+    text-decoration: none;
+    left: 40px;
+}
+
+.button3 p{
+    text-align: left;
+    padding: 10px 200px;
+    font-style: italic;
+}
+
+h{
+  font-size: 20px;
+  color: black;
+}
+
+h2{
+    color: grey;
+    font-size: 20px;
+    text-align: center;
+}
+
+.button4{
+    position: relative;;
+}
+
+.button4 a{
+    background-color: black;
+    margin: 10px 595px;
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    border-color: red;
+
+
+
+}
+
+
+.footer{
+   display: flex;
+   flex-direction: row;
+   position: relative;
+   
+}
+
+.footer .fb span{
+    margin: 100px 640px;
+    position : absolute;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border-width: 10px;
+    color: black;
+}
+
+.footer .Tw span{
+    margin: 100px 680px;
+    position : absolute;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border-width: 10px;
+    color: black;
+}
+
+.footer .ins span{
+    margin: 100px 730px;
+    position : absolute;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border-width: 10px;
+    color: black;
+}
+
+.footer .lin span{ 
+    margin: 100px 780px;
+    position : absolute;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border-width: 10px;
+    color: black;
+}
+
+.footer .you span{
+    margin: 100px 830px;
+    position : absolute;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border-width: 10px;
+    color: black;
+}
+
+.footer .fb a span:hover{
+    color: red;
+    font-size: 25px;
+    
+    
+}
+
+.footer .Tw a span:hover{
+    color: red;
+    font-size: 25px;
+}
+
+.footer .ins a span:hover{
+    color: red;
+    font-size: 25px;
+}
+
+.footer .lin a span:hover{
+    color: red;
+    font-size: 25px;
+}
+
+.footer .you a span:hover{
+    color: red;
+    font-size: 25px;
+}
+
+
+
+
+
